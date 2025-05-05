@@ -80,9 +80,9 @@ To offer insights into customer trends and behaviors, helping the **marketing te
 ## 🖼️ Dashboard Previews
 
 ### Customer Dashboard View
-![Customer Dashboard View](dashboard_previews/customer_dashboard.png)
+![Customer Dashboard View](dashboard_previews/customer_dashboard.PNG)
 
 ### Sales Dashboard View
-![Sales Dashboard View](dashboard_previews/sales_dashboard.png)
+![Sales Dashboard View](dashboard_previews/sales_dashboard.PNG)
 
 ---
