@@ -1,6 +1,6 @@
 # Tableau Sales & Customer Dashboards
 
-The dashboard is published via Tableau Public and can be found here: [View the Live HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/aj.v3290/viz/SalesCustomerDashboards_17464537085830/SalesDashboard). 
+The dashboard is published via Tableau Public and can be found here: [View the Live Sales and Customer Dashboards on Tableau Public](https://public.tableau.com/app/profile/aj.v3290/viz/SalesCustomerDashboards_17464537085830/SalesDashboard). 
 
 Shoutout to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/
 ) for the inspiration 💡.
